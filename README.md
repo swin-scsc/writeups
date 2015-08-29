@@ -14,6 +14,8 @@ This is a list of writeups for Capture The Flag cyber security competitions or c
 
 Entries in the writeup list should link elsewhere; this repository is simply an index and should contain no actual writeups.
 
+Having multiple writeups for the same CTF is no problem.
+
 ### If you Git
 
 - Fork this repo
