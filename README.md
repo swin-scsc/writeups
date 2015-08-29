@@ -1,6 +1,6 @@
 # CTF writeups by Swinburne Cyber Security Club members
 
-This is a list of writeups for Capture The Flag cyber security competitions or challenges, that have been written by members of the Swinburne Cyber Security Club.
+This is a list of writeups for Capture The Flag cyber security competitions or challenges, that have been written by members of the [Swinburne Cyber Security Club](http://scsc.wtf).
 
 ## Writeup list
 
