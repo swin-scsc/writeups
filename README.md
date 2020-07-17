@@ -1,9 +1,20 @@
 # CTF writeups by Swinburne Cyber Security Club members
 
-This is a list of writeups for Capture The Flag cyber security competitions or challenges, that have been written by members of the [Swinburne Cyber Security Club](http://scsc.wtf).
+This is a list of writeups for Capture The Flag cyber security competitions or challenges, that have been written by members of the [Swinburne Cyber Security Club](http://scsc.io).
 
 ## Writeup list
-
+### **2020** 
+- rgbCTF
+	+ [All]()
+	+ []()
+	+ []()
+	+ []()
+- redpwnCTF
+	+ [All]()
+	+ []()
+	+ []()
+	+ []()
+### **Old** 
 - OverTheWire
 	+ [Bandit - ZimbiX](https://github.com/ZimbiX/infosec-ctf-writeups/blob/master/OverTheWire%20-%20Bandit.md) (24-25)
 	+ [Natas - ZimbiX](https://github.com/ZimbiX/infosec-ctf-writeups/tree/master/OverTheWire%20-%20Natas) (0-25)
