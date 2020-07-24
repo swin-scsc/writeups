@@ -7,22 +7,22 @@ This is a list of writeups for challenges from Capture The Flag (CTF) competitio
 
 ## Writeup list
 ### **2020** 
-- csiCTF [View All]()
+- csiCTF [View All](https://github.com/swin-scsc/writeups/tree/master/2020/csiCTF)
 	+ []()
 	+ []()
 	+ []()
-- uiuCTF [View All]()
+- uiuCTF [View All](https://github.com/swin-scsc/writeups/tree/master/2020/uiuCTF)
 	+ []()
 	+ []()
 	+ []()
-- rgbCTF [View All]()
+- rgbCTF [View All](https://github.com/swin-scsc/writeups/tree/master/2020/rgbCTF)
 	+ []()
 	+ []()
 	+ []()
-- redpwnCTF [View All](https://github.com/swin-scsc/writeups/tree/master/redpwnCTF)
+- redpwnCTF [View All](http://github.com/swin-scsc/writeups/tree/master/2020/redpwnCTF)
 	+ []()
 	+ []()
-	+ [Login - Viatori](https://github.com/swin-scsc/writeups/blob/master/redpwnCTF/login%20-%20Viatori)
+	+ []()
 ### **Old** 
 - OverTheWire
 	+ [Bandit - ZimbiX](https://github.com/ZimbiX/infosec-ctf-writeups/blob/master/OverTheWire%20-%20Bandit.md) (24-25)
