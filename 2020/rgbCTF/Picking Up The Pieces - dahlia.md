@@ -15,7 +15,7 @@
 
 *Writeup By:* [dahlia](https://github.com/orangeblossomest)
 
-## Solution
+## Process
 
 In this challenge we were given a text file map.txt containing 200000 lines of text as described in the challenge description in the format <start node> <end node> <cost> <flag value>.
 
