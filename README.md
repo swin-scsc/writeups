@@ -7,19 +7,19 @@ This is a list of writeups for challenges from Capture The Flag (CTF) competitio
 
 ## Writeup list
 ### **2020** 
-- csiCTF [All]()
+- csiCTF [View All]()
 	+ []()
 	+ []()
 	+ []()
-- uiuCTF [All]()
+- uiuCTF [View All]()
 	+ []()
 	+ []()
 	+ []()
-- rgbCTF [All]()
+- rgbCTF [View All]()
 	+ []()
 	+ []()
 	+ []()
-- redpwnCTF [All]()
+- redpwnCTF [View All]()
 	+ []()
 	+ []()
 	+ []()
