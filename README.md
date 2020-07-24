@@ -6,7 +6,7 @@ This is a list of writeups for challenges from Capture The Flag (CTF) competitio
 - [Template]()
 
 ## Writeup list
-### **[2020]**(https://github.com/swin-scsc/writeups/tree/master/2020) 
+### **[2020](https://github.com/swin-scsc/writeups/tree/master/2020)**
 - csiCTF [View All](https://github.com/swin-scsc/writeups/tree/master/2020/csiCTF)
 	+ []()
 	+ []()
