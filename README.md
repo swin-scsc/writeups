@@ -3,7 +3,7 @@
 This is a list of writeups for challenges from Capture The Flag (CTF) competitions or challenges that have been written by members of the [Swinburne Cyber Security Club](http://scsc.io).
 
 ### **Template** 
-- [Template]()
+- [Template](https://github.com/swin-scsc/writeups/blob/master/template.md)
 
 ## Writeup list
 ### **[2020](https://github.com/swin-scsc/writeups/tree/master/2020)**
