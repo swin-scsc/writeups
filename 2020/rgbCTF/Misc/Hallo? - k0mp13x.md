@@ -28,7 +28,7 @@ Then I broke this up into the groupings that match the waveform output to get th
 
 777 4 22 222 8 333 # 999 33 33 8 # 3 8 6 333 # 8 666 66 33 7777 #
 
-![Phone Keypad](https://raw.githubusercontent.com/swin-scsc/writeups/orangeblossomest-uploading-1/2020/rgbCTF/Misc/images/hallo-k0mp13x-screenshot.png)
+![Phone Keypad](https://raw.githubusercontent.com/swin-scsc/writeups/master/2020/rgbCTF/Misc/images/hallo-k0mp13x-screenshot.png)
 
 The numbers correspond to a phone keypad.
 
