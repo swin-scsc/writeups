@@ -13,6 +13,8 @@
 ## Process:
 This challenge gave us 8 different .mp3 files with unique, hashed names, that were UUIDs. In each file’s spectrographic display, there were three characters, here is the view of a randomly picked one of the eight: 
 
+![Spectrographic Display Screenshot](https://raw.githubusercontent.com/swin-scsc/writeups/master/2020/rgbCTF/%5BZTC%5D/images/vaporwave3-zeph-screenshot.png)
+
 Copying down these characters, and arranging them by song length, longest to shortest, gives us janOHS{ahse0n1yz_k4f73p}. This is obviously the correct first step, but there’s more to read here than meets the eye.
 Firstly, “janOHS{xxxxxxxxx_xxxxxx}” gives us four pieces of crucial information.
 
