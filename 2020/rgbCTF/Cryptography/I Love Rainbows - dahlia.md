@@ -47,7 +47,7 @@ d10b36aa74a59bcf4a88185837f658afaf3646eff2bb16c3928d0e9335e945d2
 
 The name for this challenge was an indicator of the encryption being used here, as the "rainbows" in I Love Rainbows was referring to a rainbow table, allowing me to determine that these were actually hashes.
 
-Here I used the website ![CrackStation](https://crackstation.net/), which takes hashes and compares them against a huge database of mapped plaintexts and hashes.
+Here I used the website [CrackStation](https://crackstation.net/), which takes hashes and compares them against a huge database of mapped plaintexts and hashes.
 
 |Hash|Type|Result|
 |---|---|---|
@@ -78,7 +78,7 @@ Here I used the website ![CrackStation](https://crackstation.net/), which takes 
 
 Combining the plaintext for all these hashes gives the flag `rgbCTF{4lw4ys_us3_s4lt_wh3n_h4shing}`.
 
-![A quick explanation of rainbow tables and salt](https://www.geeksforgeeks.org/understanding-rainbow-table-attack/).
+[A quick explanation of rainbow tables and salt](https://www.geeksforgeeks.org/understanding-rainbow-table-attack/).
 
 ### Flag: rgbCTF{4lw4ys_us3_s4lt_wh3n_h4shing}
 
