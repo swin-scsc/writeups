@@ -1,4 +1,4 @@
-# redpwnCTF - Inspector-General
+# redpwnCTF - inspector-general
 
 **Category:** Web
 **Points:** 112 
