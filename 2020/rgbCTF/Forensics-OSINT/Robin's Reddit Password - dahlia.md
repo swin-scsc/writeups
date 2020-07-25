@@ -24,7 +24,7 @@ https://www.removeddit.com/r/programming/comments/5vtv16/cloudflare_have_been_le
 
 Next, I searched the page for the term "robin" and located this comment (this comment was not actually deleted so it could have been located simply through reddit):
 
-![Comment Screenshot](https://raw.githubusercontent.com/swin-scsc/writeups/orangeblossomest-uploading-1/2020/rgbCTF/Forensics-OSINT/images/robins_reddit_password-dahlia-screenshot.png)
+![Comment Screenshot](https://raw.githubusercontent.com/swin-scsc/writeups/master/2020/rgbCTF/Forensics-OSINT/images/robins_reddit_password-dahlia-screenshot.png)
 
 The relevant section in this comment being `robin       q67PjKP5jcE+7susJjzT7Q==      bird`, with the text `bird` revealing the flag.
 
