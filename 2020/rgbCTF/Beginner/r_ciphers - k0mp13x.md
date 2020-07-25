@@ -31,7 +31,7 @@ https://www.dcode.fr/monoalphabetic-substitution
 
 This is just a monoalphabetic substitution. It can be easily solved using online tool dcode.fr
 
-![dcode Monoalphabetic Substitution Output ](https://raw.githubusercontent.com/swin-scsc/writeups/orangeblossomest-uploading-1/2020/rgbCTF/Beginner/images/r_ciphers-k0mp13x-screenshot.png)
+![dcode Monoalphabetic Substitution Output ](https://raw.githubusercontent.com/swin-scsc/writeups/master/2020/rgbCTF/Beginner/images/r_ciphers-k0mp13x-screenshot.png)
 
 
 ### Flag: rgbCTF{just_4sk_th3_int3rn3t_t0_d3crypt_it}
