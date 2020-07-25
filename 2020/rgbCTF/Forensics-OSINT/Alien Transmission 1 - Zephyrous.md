@@ -16,6 +16,6 @@ This one was a very simple SSTV signal. The only messing around with it that I h
 
 Formatted correctly, MMSSTV decodes it to the following:
 
-![MMSSTV Output](https://raw.githubusercontent.com/swin-scsc/writeups/orangeblossomest-uploading-1/2020/rgbCTF/Forensics-OSINT/images/alien_transmission_1-zephyrous-screenshot.png)
+![MMSSTV Output](https://raw.githubusercontent.com/swin-scsc/writeups/master/2020/rgbCTF/Forensics-OSINT/images/alien_transmission_1-zephyrous-screenshot.png)
 
 ### Flag: rgbCTF{s10w_2c4n_1s_7h3_W4V3}
