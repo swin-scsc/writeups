@@ -29,9 +29,9 @@ A significantly low value of exponent e when used in an RSA algorithm without pa
 
 Since RSA encryption is performed using the formula `c = m ^ e mod n`, if `m ^ e < n`, then `m ^ e mod n == m ^ e`, and `c = m ^ e`, thus m can be found by taking the eth root of c, `m == c ^ (1/e)`.
 
-![It is not simple to find the nth root of a large integer in python due to the size limit of float values](https://www.programming-books.io/essential/python/computing-large-integer-roots-158e7c16a3474de0ab49f6ba360c1016)
+[It is not simple to find the nth root of a large integer in python due to the size limit of float values](https://www.programming-books.io/essential/python/computing-large-integer-roots-158e7c16a3474de0ab49f6ba360c1016)
 
-Rather than using a function as shown in the above example I used the ![gmpy2 module](https://gmpy2.readthedocs.io/en/latest/mpz.html):
+Rather than using a function as shown in the above example I used the [gmpy2 module](https://gmpy2.readthedocs.io/en/latest/mpz.html):
 
 ```python
 import gmpy2
