@@ -39,13 +39,13 @@ I still had the problem of trying to figure out some kind of a line this up to a
 
 From here I could make copies of the red waveform, shift them either left or right, and line up the peaks.
 
-![lofi_clean.mp3 Waveform 3](https://raw.githubusercontent.com/swin-scsc/writeups/master/2020/rgbCTF/Forensics-OSINT/images/lofi-zephyrous-screenshot-4.png)
+![lofi_clean.mp3 Waveform 3](https://raw.githubusercontent.com/swin-scsc/writeups/master/2020/rgbCTF/Forensics-OSINT/images/lofi-zephyrous-screenshot-5.png)
 
-![lofi_clean.mp3 Waveform 4](https://raw.githubusercontent.com/swin-scsc/writeups/master/2020/rgbCTF/Forensics-OSINT/images/lofi-zephyrous-screenshot-5.png)
+![lofi_clean.mp3 Waveform 4](https://raw.githubusercontent.com/swin-scsc/writeups/master/2020/rgbCTF/Forensics-OSINT/images/lofi-zephyrous-screenshot-6.png)
 
 From here, it was a fairly simple job of interpreting this into binary bits. Essentially, you’re running an AND operation on each peak of the red waveform and what was directly below it, which looks like this:
 
-![lofi_clean.mp3 Waveform Binary](https://raw.githubusercontent.com/swin-scsc/writeups/master/2020/rgbCTF/Forensics-OSINT/images/lofi-zephyrous-screenshot-6.png)
+![lofi_clean.mp3 Waveform Binary](https://raw.githubusercontent.com/swin-scsc/writeups/master/2020/rgbCTF/Forensics-OSINT/images/lofi-zephyrous-screenshot-7.png)
 
 That gives us the string 011001100110101000101101001100110011000000110010, which when converted to ascii gives us ‘fj-302’, which would mean the tinyurl link is tinyurl.com/fj-302, which takes us to a pastebin, where we get our flag:
 
