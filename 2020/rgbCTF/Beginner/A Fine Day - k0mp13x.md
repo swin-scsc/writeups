@@ -23,7 +23,7 @@ https://www.dcode.fr/monoalphabetic-substitution
 
 
 
-![dcode Monoalphabetic Substitution Solve](https://raw.githubusercontent.com/swin-scsc/writeups/orangeblossomest-uploading-1/2020/rgbCTF/Beginner/images/a_fine_day-k0mp13x-screenshot.png)
+![dcode Monoalphabetic Substitution Solve](https://raw.githubusercontent.com/swin-scsc/writeups/master/2020/rgbCTF/Beginner/images/a_fine_day-k0mp13x-screenshot.png)
 
 
 ### Flag: rgbCTF{a_fine_affine_cipher}
