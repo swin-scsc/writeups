@@ -18,11 +18,11 @@
 
 With this challenge we were given the file shoob.png
 
-![shoob.png](https://raw.githubusercontent.com/swin-scsc/writeups/orangeblossomest-uploading-1/2020/rgbCTF/Beginner/images/shoob.png)
+![shoob.png](https://raw.githubusercontent.com/swin-scsc/writeups/master/2020/rgbCTF/Beginner/images/shoob.png)
 
 After opening the file with ![StegSolve](http://www.caesum.com/handbook/stego.htm), and examining the file with green plane 0 the flag was revealed:
 
-![shoob stegsolve green plane 0](https://raw.githubusercontent.com/swin-scsc/writeups/orangeblossomest-uploading-1/2020/rgbCTF/Beginner/images/shoob-dahlia-screenshot.PNG)
+![shoob stegsolve green plane 0](https://raw.githubusercontent.com/swin-scsc/writeups/master/2020/rgbCTF/Beginner/images/shoob-dahlia-screenshot.PNG)
 
 
 ### Flag: rgbCTF{3zier_4haN_s4n1ty}
