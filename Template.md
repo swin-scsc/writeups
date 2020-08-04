@@ -6,9 +6,9 @@
 
 > <Challenge Description Text (as given in challenge)>
 
-<Files (if relevant)>
-<Link>
-<nc address>
+>  - <Files (if relevant)>
+> <Link>
+> <nc address>
 
 <^ all the above will be in quote markdown, just include any information given by with the challenge basically>
 
