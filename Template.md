@@ -1,14 +1,14 @@
 # <CTF name> - <Challenge Name>
 
-**Category:** <CTF Category>  
-**Points:** <initial and final given points>  
+**Category:** <CTF Category (as in the competition)>  
+**Points:** <points (initial and final)>  
 **Solves:** <Number of solves (at your submission and final)>
 
 > <Challenge Description Text (as given in challenge)>
 >
 >  - <Files (if relevant)>
-> <Link>
-> <nc address>
+>  - <Link (to external downloads, websites, etc)>
+>  - <nc address>
 
 <^ all the above will be in quote markdown, just include any information given by with the challenge basically>
 
