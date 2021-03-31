@@ -6,6 +6,14 @@ This is a list of writeups for challenges from Capture The Flag (CTF) competitio
 - [Template](https://github.com/swin-scsc/writeups/blob/master/Template.md)
 
 ## Writeup list
+### **[2021](./2021)**
+- picoCTF [View All](./2021/picoCTF)
+	+ [Clouds - gov](./2021/picoCTF/Crypto/Clouds - gov.md)
+	+ [Scrambled: RSA - gov](./2021/picoCTF/Crypto/Scrambled: RSA - gov.md)
+- UTCTF [View All](./2021/UTCTF)
+	+ [A Bit Weird - gov](./2021/UTCTF/Crypto/A Bit Weird - gov.md)
+	+ [Prove No Knowledge - gov](./2021/UTCTF/Crypto/Prove No Knowledge - gov.md)
+	+ [Sleeves - gov](./2021/UTCTF/Crypto/Sleeves - gov.md)
 ### **[2020](https://github.com/swin-scsc/writeups/tree/master/2020)**
 - csiCTF [View All](https://github.com/swin-scsc/writeups/tree/master/2020/csiCTF)
 	+ [unseen - Zephyrous]()
